@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TugasConstrainLayout2</string>
+    <string name="android">Android</string>
+    <string name="android_adalah_sistem_operasi_berbasis_linux_yang_dirancang_untuk_perangkat_bergerak_layar_sentuh_seperti_telepon_pintar_dan_komputer_tablet_android_awalnya_dikembangkan_oleh_android_inc_dengan_dukungan_finansial_dari_google_yang_kemudian_membelinya_pada_tahun_2005">Android adalah sistem operasi berbasis Linux yang dirancang untuk perangkat bergerak layar sentuh seperti telepon pintar dan komputer tablet. Android awalnya dikembangkan oleh Android, Inc., dengan dukungan finansial dari Google, yang kemudian membelinya pada tahun 2005.</string>
+    <string name="todo">TODO</string>
+    <string name="click">Click</string>
+</resources>
